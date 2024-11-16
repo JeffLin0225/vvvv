@@ -1,0 +1,12 @@
+body {
+  background-color: #eff3ec;
+}
+
+.container {
+  background-color: #c7cde4;
+  max-width: 500px;
+  width: 80%;
+  margin: 30px auto;
+  border: 2px solid rgb(245, 240, 92);
+  padding: 16px 30px 36px 30px;
+}
